@@ -1,1 +1,1 @@
-This program optimizes the size of all power devices in a system that includes a flyback converter and an active full bridge.
+This program optimizes the size of all power devices in a system that includes a flyback converter and an active full bridge. I used this to optimize silicon area, which translates to direct cost savings. 
